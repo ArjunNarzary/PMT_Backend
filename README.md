@@ -6,7 +6,7 @@
 
 ## To run the project,
 
-- Rename .env.example to .en
+- Rename .env.example to .env
 - Add MongoDb url
 - Run "npm install"
 - Run "npm run dev"
